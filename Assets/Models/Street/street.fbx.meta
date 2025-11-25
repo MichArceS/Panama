@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 37cd195e9a65da342823f74f6942468d
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BricksDragfacedRunning008_2K
+    second: {fileID: 2100000, guid: 1c6a0fd01fdfaf144a78dff9d7b883f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityStreetAsphaltGenericClean001_2K
+    second: {fileID: 2100000, guid: 11804049b0b0c7a4b810b02bed6d6ee2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Easel
+    second: {fileID: 2100000, guid: 3363c8d8d774ed94ab06b9f9702d4db2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Easel.001
+    second: {fileID: 2100000, guid: 02ab8c0d45266704b8db1f04de7355c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_ConcretePaversSquare_7100_2K
+    second: {fileID: 2100000, guid: 5f6ad44273987af49980b6be49ca0711, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_ConcretePaversSquare_7100_2K.001
+    second: {fileID: 2100000, guid: 2d2bea052fbe3044b8e3df55a4edaf7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_GrassPatchyGround_4585_2K
+    second: {fileID: 2100000, guid: 1f8c5926b794eef4f968b60a1e288cba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_MetalPaintedMatte_7037_2K
+    second: {fileID: 2100000, guid: 5947ebbc9586ca142a3dbda00062148d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_MetalRust_7642_2K
+    second: {fileID: 2100000, guid: ef2fec633260515489334c41acf65011, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_MetalSteelBrushed_7174_2K
+    second: {fileID: 2100000, guid: 54a5db18dcd610b40a0fc4e64f048fae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K
+    second: {fileID: 2100000, guid: df053066d01a2764a84580a21b3d161e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K.001
+    second: {fileID: 2100000, guid: f711daff0b41609428919752f9f2261a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K.002
+    second: {fileID: 2100000, guid: 907d790ca8aaae940bb5dabe694177ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K.003
+    second: {fileID: 2100000, guid: 791c4d5f71f1dc848b1a7bfac79148a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K.004
+    second: {fileID: 2100000, guid: d77b5fb83fab31342b5908e64c2e80c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K.005
+    second: {fileID: 2100000, guid: 26664f5c3d034934eadabfaccd1b054f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K.006
+    second: {fileID: 2100000, guid: ef76ab3c9ca09374a8cb057df71cffc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K.007
+    second: {fileID: 2100000, guid: 4919709bc7eb4084ab5fe0acc2eea692, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K.008
+    second: {fileID: 2100000, guid: d0b581cb200cdb04495a96ad344a49f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K.009
+    second: {fileID: 2100000, guid: 011a4d6fa0d2773409d28ab18065e2d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K.010
+    second: {fileID: 2100000, guid: 3c0f3d3baf6bbbd49bfa06b30eefa105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K.011
+    second: {fileID: 2100000, guid: f52fd98223a9d6b4fa33cbe75418738d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K.012
+    second: {fileID: 2100000, guid: aa36f30c545531a43b081c6c77bd656b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K.013
+    second: {fileID: 2100000, guid: 9eafc6d056d344647a0090768aa0f57e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K.014
+    second: {fileID: 2100000, guid: 9e541d3ab3b70fe4ca5fcf5778068036, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K.015
+    second: {fileID: 2100000, guid: c4b8bdecb3545fc4a99f55e5b17b2b68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasticMoldDryBlast_7495_2K
+    second: {fileID: 2100000, guid: f6a2fe637ee2f384786b1fe59ca5cbae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_WoodFloorAsh_4186_2K
+    second: {fileID: 2100000, guid: 77bcb24bc30ef514f9320ed12456ac0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_WoodFloorAsh_4186_2K.001
+    second: {fileID: 2100000, guid: dd2d75f1487d2e24fa95e598a436a1cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_WoodVeneerOak_7760_2K
+    second: {fileID: 2100000, guid: c361febceee139b4b9ef2e5565c1a61d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RammedEarth006_2K
+    second: {fileID: 2100000, guid: f44c66659b26bb34b8c8842c796bb632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StoneBricksSplitface001_2K
+    second: {fileID: 2100000, guid: bb0d8361cb2b5564fabefdb85e0acf7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StoneBricksSplitface001_2K.001
+    second: {fileID: 2100000, guid: 7062fe8cf3cee9f4e84ff1d74b14b2a8, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
