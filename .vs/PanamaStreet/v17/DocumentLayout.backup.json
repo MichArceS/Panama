@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\panama\\panamastreet\\assets\\mini first person controller\\scripts\\firstpersonlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|solutionrelative:assets\\mini first person controller\\scripts\\firstpersonlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\panama\\panamastreet\\assets\\mini first person controller\\scripts\\components\\zoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|solutionrelative:assets\\mini first person controller\\scripts\\components\\zoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FirstPersonLook.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Mini First Person Controller\\Scripts\\FirstPersonLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Mini First Person Controller\\Scripts\\FirstPersonLook.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Mini First Person Controller\\Scripts\\FirstPersonLook.cs",
+              "RelativeToolTip": "Assets\\Mini First Person Controller\\Scripts\\FirstPersonLook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:21:37.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Zoom.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Mini First Person Controller\\Scripts\\Components\\Zoom.cs",
               "RelativeDocumentMoniker": "Assets\\Mini First Person Controller\\Scripts\\Components\\Zoom.cs",
