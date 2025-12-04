@@ -3,7 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\panama\\panamastreet\\assets\\scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\panama\\panamastreet\\assets\\scripts\\npcspawner\\npcspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npcspawner\\npcspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\panama\\panamastreet\\assets\\scripts\\npcspawner\\walkingcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npcspawner\\walkingcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16013367-C9C9-3C36-EAA5-E070BDEFB1F9}|Fungus.csproj|C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\assets\\fungus\\scripts\\components\\dialoginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16013367-C9C9-3C36-EAA5-E070BDEFB1F9}|Fungus.csproj|solutionrelative:assets\\fungus\\scripts\\components\\dialoginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\assets\\scripts\\fungustriggers\\tabletrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fungustriggers\\tabletrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16013367-C9C9-3C36-EAA5-E070BDEFB1F9}|Fungus.csproj|C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\assets\\fungus\\fungus.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{16013367-C9C9-3C36-EAA5-E070BDEFB1F9}|Fungus.csproj|solutionrelative:assets\\fungus\\fungus.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\assets\\textmesh pro\\shaders\\tmp_sdf ssd.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf ssd.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\assets\\scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,11 +46,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WalkingCollider.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Scripts\\NPCSpawner\\WalkingCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCSpawner\\WalkingCollider.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Scripts\\NPCSpawner\\WalkingCollider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCSpawner\\WalkingCollider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T02:21:46.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NPCSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Scripts\\NPCSpawner\\NPCSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCSpawner\\NPCSpawner.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Scripts\\NPCSpawner\\NPCSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCSpawner\\NPCSpawner.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T01:55:46.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DialogInput.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Fungus\\Scripts\\Components\\DialogInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Fungus\\Scripts\\Components\\DialogInput.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Fungus\\Scripts\\Components\\DialogInput.cs",
+              "RelativeToolTip": "Assets\\Fungus\\Scripts\\Components\\DialogInput.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAABRwFgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T02:46:58.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TableTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Scripts\\FungusTriggers\\TableTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FungusTriggers\\TableTrigger.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Scripts\\FungusTriggers\\TableTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FungusTriggers\\TableTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T02:38:10.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fungus.asmdef",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Fungus\\Fungus.asmdef",
+              "RelativeDocumentMoniker": "Assets\\Fungus\\Fungus.asmdef",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Fungus\\Fungus.asmdef",
+              "RelativeToolTip": "Assets\\Fungus\\Fungus.asmdef",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2025-12-01T02:14:20.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TMP_SDF SSD.shader",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-12-01T02:11:03.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AnimationController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Scripts\\AnimationController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AnimationController.cs",
@@ -34,23 +132,23 @@
               "RelativeToolTip": "Assets\\Scripts\\AnimationController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T00:07:06.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T00:07:06.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "FirstPersonLook.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Mini First Person Controller\\Scripts\\FirstPersonLook.cs",
               "RelativeDocumentMoniker": "Assets\\Mini First Person Controller\\Scripts\\FirstPersonLook.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Mini First Person Controller\\Scripts\\FirstPersonLook.cs",
               "RelativeToolTip": "Assets\\Mini First Person Controller\\Scripts\\FirstPersonLook.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T02:21:37.738Z"
+              "WhenOpened": "2025-11-26T02:21:37.738Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Zoom.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Mini First Person Controller\\Scripts\\Components\\Zoom.cs",
               "RelativeDocumentMoniker": "Assets\\Mini First Person Controller\\Scripts\\Components\\Zoom.cs",
@@ -58,7 +156,8 @@
               "RelativeToolTip": "Assets\\Mini First Person Controller\\Scripts\\Components\\Zoom.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T02:14:11.674Z"
+              "WhenOpened": "2025-11-26T02:14:11.674Z",
+              "EditorCaption": ""
             }
           ]
         }
