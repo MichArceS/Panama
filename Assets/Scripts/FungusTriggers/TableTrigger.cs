@@ -12,6 +12,7 @@ public class TableTrigger : MonoBehaviour
     public KeyCode interactionKey = KeyCode.E;
 
     private bool isPlayerInRange = false;
+    public bool isCounting = false;
 
     private void Start()
     {
@@ -30,6 +31,12 @@ public class TableTrigger : MonoBehaviour
             if (targetFlowchart != null && !string.IsNullOrEmpty(blockName))
             {
                 targetFlowchart.ExecuteBlock(blockName);
+                if (isCounting)
+                {
+                    PointsController controlador = FindFirstObjectByType<PointsController>();
+                    controlador.SumarPuntos(TipoPuntaje.Restaurante, 1);
+                    isCounting = false;
+                }
             }
         }
     }

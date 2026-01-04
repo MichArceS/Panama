@@ -16,9 +16,10 @@ public class ClickParaAmpliar : MonoBehaviour, IPointerClickHandler
 
     public void OnPointerClick(PointerEventData eventData)
     {
-        Debug.Log("A213");
         if (VisorDeImagen.instancia != null)
         {
+            PointsController controlador = FindFirstObjectByType<PointsController>();
+            controlador.SumarPuntos(TipoPuntaje.Fotos, 1);
             VisorDeImagen.instancia.MostrarImagen(miImagen.sprite, audioAsociado);
         }
     }
