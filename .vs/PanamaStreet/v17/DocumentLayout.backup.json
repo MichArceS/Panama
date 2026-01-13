@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\assets\\scripts\\fungustriggers\\tabletrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\panama\\panamastreet\\assets\\scripts\\photos\\clickparaampliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\photos\\clickparaampliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\panama\\panamastreet\\assets\\scripts\\fungustriggers\\tabletrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fungustriggers\\tabletrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\panama\\panamastreet\\assets\\scripts\\pointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88134A13-ECA0-7353-6FE1-1624ED697E50}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ClickParaAmpliar.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Scripts\\Photos\\ClickParaAmpliar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Photos\\ClickParaAmpliar.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Scripts\\Photos\\ClickParaAmpliar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Photos\\ClickParaAmpliar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T23:16:05.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TableTrigger.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Scripts\\FungusTriggers\\TableTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FungusTriggers\\TableTrigger.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Scripts\\FungusTriggers\\TableTrigger.cs",
               "RelativeToolTip": "Assets\\Scripts\\FungusTriggers\\TableTrigger.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T23:56:05.786Z",
+              "WhenOpened": "2026-01-04T23:02:08.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PointsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Scripts\\PointsController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PointsController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Panama\\PanamaStreet\\Assets\\Scripts\\PointsController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PointsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T22:58:16.03Z",
               "EditorCaption": ""
             }
           ]

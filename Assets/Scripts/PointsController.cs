@@ -14,6 +14,14 @@ public class PointsController : MonoBehaviour
     public int puntosFotos = 0;
     public int puntosBar = 0;
 
+    private void Update()
+    {
+        if (puntosRestaurante >= 1 && puntosFotos >= 0 && puntosBar >= 0)
+        {
+            Debug.Log("Completado");
+        }
+    }
+
     public void SumarPuntos(TipoPuntaje tipo, int cantidad)
     {
         switch (tipo)
