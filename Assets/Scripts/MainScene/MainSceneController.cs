@@ -13,6 +13,9 @@ public class MainSceneController : MonoBehaviour
 
     private bool yaSeActivo = false;
 
+    public AudioSource audioSource;
+    public AudioClip audioClip;
+
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space) && !yaSeActivo)
@@ -23,6 +26,10 @@ public class MainSceneController : MonoBehaviour
 
     IEnumerator AnimarYCambiar()
     {
+        audioSource.loop = false;
+        audioSource.Stop();
+        audioSource.clip = audioClip;
+        audioSource.Play();
         yaSeActivo = true;
 
         if (miAnimator != null)
