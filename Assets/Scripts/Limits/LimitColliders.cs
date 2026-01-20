@@ -21,7 +21,7 @@ public class LimitColliders : MonoBehaviour
         if (tagsValidos.Contains(tagDelOtro))
         {
             // 1. Antes de destruir, activamos los spawners
-            EjecutarSpawns();
+            //EjecutarSpawns();
             Destroy(collision.collider.gameObject);
         }
     }
