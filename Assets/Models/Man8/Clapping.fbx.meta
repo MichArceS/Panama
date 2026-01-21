@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 6eecbb55fa375c84fb27daaa6e695c3f
 ModelImporter:
-  serializedVersion: 21300
+  serializedVersion: 24200
   internalIDToNameTable: []
   externalObjects: {}
   materials:
@@ -16,8 +16,6 @@ ModelImporter:
     optimizeGameObjects: 0
     removeConstantScaleCurves: 1
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -65,10 +63,11 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 2
+    meshCompression: 3
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 0
     importCameras: 0
@@ -86,6 +85,9 @@ ModelImporter:
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
     optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
@@ -96,6 +98,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -549,14 +552,12 @@ ModelImporter:
     - name: mixamorig4:Spine1
       parentName: mixamorig4:Spine
       position: {x: -0, y: 0.11638976, z: -3.1513434e-10}
-      rotation: {x: -0.000000029802319, y: -1.7024869e-10, z: 0.0000000017196328,
-        w: 1}
+      rotation: {x: -0.000000029802319, y: -1.7024869e-10, z: 0.0000000017196328, w: 1}
       scale: {x: 1, y: 0.99999994, z: 0.9999999}
     - name: mixamorig4:Spine2
       parentName: mixamorig4:Spine1
       position: {x: -0, y: 0.13301682, z: -7.721482e-11}
-      rotation: {x: -0.00000001117587, y: 0.000000011508731, z: 0.0000000019162514,
-        w: 1}
+      rotation: {x: -0.00000001117587, y: 0.000000011508731, z: 0.0000000019162514, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: mixamorig4:Neck
       parentName: mixamorig4:Spine2
@@ -566,8 +567,7 @@ ModelImporter:
     - name: mixamorig4:Head
       parentName: mixamorig4:Neck
       position: {x: -0, y: 0.07468704, z: 0.025775349}
-      rotation: {x: 0.00000001117587, y: -0.0000000029103826, z: -0.0000000014551914,
-        w: 1}
+      rotation: {x: 0.00000001117587, y: -0.0000000029103826, z: -0.0000000014551914, w: 1}
       scale: {x: 1, y: 0.99999994, z: 0.99999994}
     - name: mixamorig4:HeadTop_End
       parentName: mixamorig4:Head
@@ -732,8 +732,7 @@ ModelImporter:
     - name: mixamorig4:RightHandThumb4
       parentName: mixamorig4:RightHandThumb3
       position: {x: 0.006992316, y: 0.025615992, z: 3.0678507e-10}
-      rotation: {x: -0.000000044703473, y: 0.000000014994864, z: 0.000000029755274,
-        w: 1}
+      rotation: {x: -0.000000044703473, y: 0.000000014994864, z: 0.000000029755274, w: 1}
       scale: {x: 1.0000002, y: 1, z: 1.0000002}
     - name: mixamorig4:RightHandIndex1
       parentName: mixamorig4:RightHand
@@ -753,8 +752,7 @@ ModelImporter:
     - name: mixamorig4:RightHandIndex4
       parentName: mixamorig4:RightHandIndex3
       position: {x: 0.000009543349, y: 0.024691807, z: -3.174378e-10}
-      rotation: {x: 0.00000007450578, y: 0.000000020512365, z: 0.000000036361758,
-        w: 1}
+      rotation: {x: 0.00000007450578, y: 0.000000020512365, z: 0.000000036361758, w: 1}
       scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
     - name: mixamorig4:RightHandMiddle1
       parentName: mixamorig4:RightHand
@@ -814,8 +812,7 @@ ModelImporter:
     - name: mixamorig4:RightHandPinky4
       parentName: mixamorig4:RightHandPinky3
       position: {x: 0.00004693529, y: 0.017551105, z: -6.6948475e-11}
-      rotation: {x: 0.000000022351731, y: 0.00000009002127, z: 0.0000000067186328,
-        w: 1}
+      rotation: {x: 0.000000022351731, y: 0.00000009002127, z: 0.0000000067186328, w: 1}
       scale: {x: 0.9999998, y: 0.9999998, z: 0.9999998}
     - name: mixamorig4:LeftUpLeg
       parentName: mixamorig4:Hips
@@ -885,6 +882,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
   remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
