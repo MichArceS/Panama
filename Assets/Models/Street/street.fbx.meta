@@ -182,6 +182,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K.022
+    second: {fileID: 2100000, guid: 6db2a2e2e8d63be45bf1affce42d7e3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_2K.023
+    second: {fileID: 2100000, guid: 844034e950cc34849937ecc964ddb59b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Poliigon_PlasticMoldDryBlast_7495_2K
     second: {fileID: 2100000, guid: f6a2fe637ee2f384786b1fe59ca5cbae, type: 2}
   - first:
