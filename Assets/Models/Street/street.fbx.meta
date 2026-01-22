@@ -42,6 +42,21 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Mural1
+    second: {fileID: 2100000, guid: 18b7beb3a497e3a4ea4be1fccbecf647, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mural2
+    second: {fileID: 2100000, guid: afaf8591564529346abd16ad7f45e350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mural3
+    second: {fileID: 2100000, guid: 085b78235aa578549ac6019efb976ff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Poliigon_ConcretePaversSquare_7100_2K
     second: {fileID: 2100000, guid: 5f6ad44273987af49980b6be49ca0711, type: 2}
   - first:
